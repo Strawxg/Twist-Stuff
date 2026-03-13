@@ -23,16 +23,16 @@ betterquesting.quest.h3jljtGlTsu9TEZzsmKs-g.name=§6§l这些多方块机器需�
 betterquesting.quest.h3jljtGlTsu9TEZzsmKs-g.desc=各等级烧瓶需要§c100K§r对应等级的部件、电路、超导导线,以及大量的等离子体
 
 # Quest: §b§lA Proof of a Hero
-betterquesting.quest.h3jljtGlTsu9TEZzsmKs-g.name=§b§l英雄的证明
-betterquesting.quest.h3jljtGlTsu9TEZzsmKs-g.desc=你需要64个英雄之证.
+betterquesting.quest.bCU2_cLiSAGmGmFfthMzUA.name=§b§l英雄的证明
+betterquesting.quest.bCU2_cLiSAGmGmFfthMzUA.desc=你需要64个英雄之证.
 
 # Quest: Aquatic Farm
 betterquesting.quest.0I7_kKeiRC2pCovGSBbuoQ.name=无菌温室农场
 betterquesting.quest.0I7_kKeiRC2pCovGSBbuoQ.desc=[quest]无菌温室机械方块[/quest]%n%n若想启用§c2§r级的拟似生态圈, 你需要制作无菌温室机械方块. %n%n制造§6生态之源§r可降低液体成本§c10§r，并提高§c5x§r产量%n%n[note]祝你好运![/note]
 
 # Quest: A Rocket for the Ages
-betterquesting.quest.0I7_kKeiRC2pCovGSBbuoQ.name=火箭时代
-betterquesting.quest.0I7_kKeiRC2pCovGSBbuoQ.desc=[quest]小型运载火箭[/quest]%n%n取决于你对TST基础设施建设上的投入程度，你可能需要几十万个小型运载火箭%n%n玩的开心!
+betterquesting.quest.6Lglh082RkCeSrUx-rVXAA.name=火箭时代
+betterquesting.quest.6Lglh082RkCeSrUx-rVXAA.desc=[quest]小型运载火箭[/quest]%n%n取决于你对TST基础设施建设上的投入程度，你可能需要几十万个小型运载火箭%n%n玩的开心!
 
 # Quest: Astral Computing Array
 betterquesting.quest.UYO4WX-ySKOIA2DNTm5vsQ.name=星规阵列
@@ -47,8 +47,8 @@ betterquesting.quest.zmQVp-q7Q9yBKouqgGDWpQ.name=蜜蜂！
 betterquesting.quest.zmQVp-q7Q9yBKouqgGDWpQ.desc=[quest]蜜蜂操纵者[/quest]%n%n§6机器类型: §a蜜蜂操纵者%n%n§r可以将雄蜂转化为公主蜂，或许能帮助你解决公主蜂短缺的问题？ %n%n运行时消耗§c128kL§f§r蜂蜜，但有§c40%§f§r概率失败%n%n若提供§c32kL§f§rUU物质, 成功率将提高到§c80%§f§r%n%n[warn]若配方运行失败，将不会返还任何蜜蜂[/warn]
 
 # Quest: Blasting to the Future!
-betterquesting.quest.zmQVp-q7Q9yBKouqgGDWpQ.name=燃向未来!
-betterquesting.quest.zmQVp-q7Q9yBKouqgGDWpQ.desc=[quest]熯焱高炉[/quest]%n%n§6机器类型: §a工业高炉§r%n%n该高炉存在两种运行模式,玻璃等级限制了能源仓等级%n%n§9被动模式§r%n%n:运行时将逐渐升温，额外炉温加成将在切换配方时清除%n%n§9普通模式§r:炉温上限为线圈炉温%n%n更多信息请查询Tooltips.%n%n译者注:%n%n1.为方便使用者理解。部分中文翻译未按照原文翻译,并删减了部分原属于Tooltips的内容，供玩家自行阅读。
+betterquesting.quest.wH_SroFZRZqNE-tBCQALhw.name=燃向未来!
+betterquesting.quest.wH_SroFZRZqNE-tBCQALhw.desc=[quest]熯焱高炉[/quest]%n%n§6机器类型: §a工业高炉§r%n%n该高炉存在两种运行模式,玻璃等级限制了能源仓等级%n%n§9被动模式§r%n%n:运行时将逐渐升温，额外炉温加成将在切换配方时清除%n%n§9普通模式§r:炉温上限为线圈炉温%n%n更多信息请查询Tooltips.%n%n译者注:%n%n1.为方便使用者理解。部分中文翻译未按照原文翻译,并删减了部分原属于Tooltips的内容，供玩家自行阅读。
 
 # Quest: Bloody Hell
 betterquesting.quest.VaD7wEIUSlm2G8j5FMQFlw.name=血狱
@@ -75,24 +75,24 @@ betterquesting.quest.qafcjd0qQc6zs6aN-SnXEA.name=缓存能源仓 ZPM
 betterquesting.quest.qafcjd0qQc6zs6aN-SnXEA.desc=缓存能源仓 ZPM%n%n允许在能源仓中放置电池!
 
 # Quest: Buffered Energy Hatch IV
-betterquesting.quest._-aiEKuQSJy_zPlDW08sDA.name=缓存能源仓 IV
-betterquesting.quest._-aiEKuQSJy_zPlDW08sDA.desc=缓存能源仓 IV%n%n允许在能源仓中放置电池!
+betterquesting.quest.TbVTtoQLTsSef0zYERLoZA.name=缓存能源仓 IV
+betterquesting.quest.TbVTtoQLTsSef0zYERLoZA.desc=缓存能源仓 IV%n%n允许在能源仓中放置电池!
 
 # Quest: Buffered Energy Hatch UEV
-betterquesting.quest.TbVTtoQLTsSef0zYERLoZA.name=缓存能源仓 UEV
-betterquesting.quest.TbVTtoQLTsSef0zYERLoZA.desc=缓存能源仓 UEV%n%n允许在能源仓中放置电池!
+betterquesting.quest.wXvHavO_RFWAPwQs_6YEXQ.name=缓存能源仓 UEV
+betterquesting.quest.wXvHavO_RFWAPwQs_6YEXQ.desc=缓存能源仓 UEV%n%n允许在能源仓中放置电池!
 
 # Quest: Buffered Energy Hatch UV
-betterquesting.quest.wXvHavO_RFWAPwQs_6YEXQ.name=缓存能源仓 UV
-betterquesting.quest.wXvHavO_RFWAPwQs_6YEXQ.desc=缓存能源仓 UV%n%n允许在能源仓中放置电池!
+betterquesting.quest.X301RXe3Tqqh6098Jm0YmQ.name=缓存能源仓 UV
+betterquesting.quest.X301RXe3Tqqh6098Jm0YmQ.desc=缓存能源仓 UV%n%n允许在能源仓中放置电池!
 
 # Quest: Buffered Energy Hatch MV
-betterquesting.quest.X301RXe3Tqqh6098Jm0YmQ.name=缓存能源仓 MV
-betterquesting.quest.X301RXe3Tqqh6098Jm0YmQ.desc=缓存能源仓 MV%n%n允许在能源仓中放置电池!
+betterquesting.quest.XDkyWdpkQpG147tqCA_ojA.name=缓存能源仓 MV
+betterquesting.quest.XDkyWdpkQpG147tqCA_ojA.desc=缓存能源仓 MV%n%n允许在能源仓中放置电池!
 
 # Quest: Buffered Energy Hatch EV
-betterquesting.quest.XDkyWdpkQpG147tqCA_ojA.name=缓存能源仓 EV
-betterquesting.quest.XDkyWdpkQpG147tqCA_ojA.desc=缓存能源仓 EV%n%n允许在能源仓中放置电池!
+betterquesting.quest.XuT01JSGRiSf8A743bKA5A.name=缓存能源仓 EV
+betterquesting.quest.XuT01JSGRiSf8A743bKA5A.desc=缓存能源仓 EV%n%n允许在能源仓中放置电池!
 
 # Quest: Canning Things (Largely)
 betterquesting.quest.hjt57hHvRyGCd4qkghit7g.name=大批量装罐 
